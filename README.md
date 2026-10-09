@@ -14,13 +14,13 @@ Development Tools: Visual Studio, MySQL, Docker
 
 💻 Featured Projects
 
-Cybersecurity Home Lab
+Cybersecurity Home Lab:
 A virtualized environment for practicing network segmentation, firewall configuration, traffic analysis, and system administration.
 
-C++ Data Structures & Algorithms
+C++ Data Structures & Algorithms:
 Implementations of linked lists, cycle detection, recursion, and fundamental algorithms.
 
-SQL Database Projects
+SQL Database Projects:
 Relational database exercises using SQL and MySQL to query, organize, and analyze structured data.
 
 🎯 Currently Working On

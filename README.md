@@ -1,16 +1,34 @@
-## Hi there 👋
+Hi, I'm Christopher Kemp 👋
+Computer Science Student | Cybersecurity & Software Engineering
 
-<!--
-**ckemp7/ckemp7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at Arkansas Tech University, graduating in May 2028. I'm interested in cybersecurity, software engineering, networking, and building secure, reliable systems.
 
-Here are some ideas to get you started:
+My experience includes technical support at Apple, university IT support, and hands-on cybersecurity projects using virtualized environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Technical Skills
+
+Programming: C++, SQL
+Systems: Linux, Windows
+Cybersecurity & Networking: Proxmox VE, OPNsense, Wireshark, TCP/IP, DHCP, SSH
+Development Tools: Visual Studio, MySQL, Docker
+
+💻 Featured Projects
+
+Cybersecurity Home Lab
+A virtualized environment for practicing network segmentation, firewall configuration, traffic analysis, and system administration.
+
+C++ Data Structures & Algorithms
+Implementations of linked lists, cycle detection, recursion, and fundamental algorithms.
+
+SQL Database Projects
+Relational database exercises using SQL and MySQL to query, organize, and analyze structured data.
+
+🎯 Currently Working On
+Expanding my cybersecurity home lab
+Strengthening my C++ and algorithmic problem-solving skills
+Developing practical networking and system administration knowledge
+Preparing for summer 2027 cybersecurity and software engineering internships
+📫 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/christopher-kemp-a865b1376/
+Email: ckemp7@atu.edu
